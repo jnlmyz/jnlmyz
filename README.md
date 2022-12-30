@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jnlmyz
 - 👀 I’m interested in UX
-- 🌱 I’m currently learning SwiftUI、Kotolin、Go
+- 🌱 I love Swift、Kotolin、Go
 
 <!---
 - 💞️ I’m looking to collaborate on ...
