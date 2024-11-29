@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jnlmyz
-- 👀 I’m interested in UX
-- 🌱 I love Swift、Kotolin、Go
 
 <!---
 - 💞️ I’m looking to collaborate on ...
